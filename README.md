@@ -1,4 +1,5 @@
-# ipython_notebooks
+# Machine learning assignments
+
 Amazon Fine Food Reviews Analysis
 
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
