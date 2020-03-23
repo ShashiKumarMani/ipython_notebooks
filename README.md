@@ -1,4 +1,4 @@
-# Machine learning assignments
+# Machine learning Notebooks
 
 Amazon Fine Food Reviews Analysis
 
